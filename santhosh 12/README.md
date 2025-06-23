@@ -4,7 +4,7 @@
 Welcome to the repository for my **personal portfolio website**! 🎨✨ This project showcases my skills, projects, and achievements in the field of web development, programming, and technology.  
 
 ## 🌐 Live Preview  
-Explore the website live: https://abdur-kumar000007-mygit.github.io/Portfolio_kumar/
+Explore the website live: https://github.com/kumar000007/
 
 ## 📌 Features  
 - **Responsive Design**: Optimized for seamless viewing on all devices.  
